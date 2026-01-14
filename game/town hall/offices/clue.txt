@@ -1,0 +1,5 @@
+Investigation Update:
+
+You find a dropped keychain with a tag labeled 'records'.
+
+Remember: Use 'cd "records"' to follow this lead.
