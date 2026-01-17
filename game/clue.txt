@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-A note from The Artist mentions witnessing something concerning near the gazebo.
+While making their rounds, The Shopkeeper noticed the classrooms door was slightly ajar.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations
