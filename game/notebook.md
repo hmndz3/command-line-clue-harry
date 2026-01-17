@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Wooden Box
-- [ ] Crystal Vase
+- [ X ] Crystal Vase
 - [ ] Garden Shears
 
 ## Notes
@@ -28,3 +28,15 @@ Park:
 - En pond el archivo de persons esta vacio.
 - En pond el archivo de objects contiene "Leather Gloves."
 
+School:
+- Los archivos de persons y objects en school estan vacios.
+- El archivo objects dentro de cafeteria contiene "OldKey."
+- El archivo de persons dentro de cafeteria no tiene nada.
+- Los Archivos de persons y objects dentro de cafeteria/kitchen estan vacios.
+- Crystal Vase se encuentra en classrooms.
+- Persons.txt en classrooms se encuentra vacio.
+- "Magnifying Glass" se encuentra en classrooms/art room y persons esta vacio.
+- El asesinato fue en School/classrooms/art room.
+- The Postman se encuentra en classrooms/science lab y objects esta vacio.
+- "Heavy Book" y "The Blacksmith" se encuentran en gymnasium.
+- 
