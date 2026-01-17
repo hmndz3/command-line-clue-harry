@@ -6,7 +6,7 @@
 - [ ] The Innkeeper
 
 ## Weapons
-- [ ] Wooden Box
+- [ X ] Wooden Box
 - [ X ] Crystal Vase
 - [ ] Garden Shears
 
@@ -48,4 +48,14 @@ Residential Area:
 - The clockmaker se encuentra en mansion y objects esta vacio.
 - Los archivos de objects y persons estan vacios en mansion/garden.
 - Los archivos de objects y persons estan vavios en mansion/garden/greenhouse.
+
+Shops:
+- The Artist se encuentra en Shops y objects esta vacio.
+- The Tailor se encuentra en shops/bakery y objects esta vacio.
+- Objects y persons en shops/bakery/kitchen se encuentran vacios.
+- Silver watch se encuentra en shops/bakery/storage y persons se encuentra vacio.
+- Objects y persons en shops.cafe se encuentran vacios.
+- The Journalist se encuentra en shops/makert y objects esta vacio.
+- Brass Candlestick se encuentra en shops/market/aisles y persons esta vacio.
+- En shops/market/stockroom se encuentra la Wooden box y persons esta vacio.
 
