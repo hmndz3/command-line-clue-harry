@@ -1,8 +1,8 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Teacher
-- [ ] The Chef
+- [ X ] The Teacher
+- [ X ] The Chef
 - [ ] The Innkeeper
 
 ## Weapons
@@ -59,3 +59,9 @@ Shops:
 - Brass Candlestick se encuentra en shops/market/aisles y persons esta vacio.
 - En shops/market/stockroom se encuentra la Wooden box y persons esta vacio.
 
+Town Hall:
+- Bronze Trophy se encuentra en townhall y persons se encuentra vacio.
+- En offices esta vacio todo.
+- En offices/meeting rooms se encuentra The teacher.
+- En offices/meeting rooms/council chamber esta todo vacio.
+- El chef se encuentra en records.	
