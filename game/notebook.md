@@ -39,4 +39,13 @@ School:
 - El asesinato fue en School/classrooms/art room.
 - The Postman se encuentra en classrooms/science lab y objects esta vacio.
 - "Heavy Book" y "The Blacksmith" se encuentran en gymnasium.
-- 
+
+Residential Area:
+- Los archivos de objects y persons estan vacios.
+- Los archivos de objects y persons estan vacios en cottage.
+- Los archivos de objects y persons estan vacios en cottage/cellar.
+- Los archivos de objects y persons estan vacios en cottage/living room.
+- The clockmaker se encuentra en mansion y objects esta vacio.
+- Los archivos de objects y persons estan vacios en mansion/garden.
+- Los archivos de objects y persons estan vavios en mansion/garden/greenhouse.
+
